@@ -1,0 +1,16 @@
+active:1
+interface:tcp
+tcpListenPort:20001
+ttyMode:9600,n,8,1
+ttyHandshake:none
+receiveDelimiter:;
+sendDelimiter:;
+sendAnswer:1
+debugPort:20002
+debugLevel:1
+asyncport:20003
+pushstatechange:1
+pushtemplatechange:1
+pushmarkingcounterchange:1
+pushproductcounterchange:1
+pushmarkresult:1

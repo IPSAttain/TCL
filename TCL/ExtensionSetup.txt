@@ -1,0 +1,5 @@
+active:1
+asyncStatus:0
+asyncPrintComlete:0
+asyncJob:0
+ZTCPort:20006
